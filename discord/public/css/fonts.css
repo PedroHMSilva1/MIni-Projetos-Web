@@ -1,0 +1,34 @@
+
+@font-face {
+    font-family: Discord;
+    font-weight: 400;
+    src: url('/public/assets/fonts/discord-normal.woff2');
+}
+
+
+@font-face {
+    font-family: Discord;
+    font-weight: 500;
+    src: url('/public/assets/fonts/discord-medium.woff2');
+}
+
+
+@font-face {
+    font-family: Discord;
+    font-weight: 600;
+    src: url('/public/assets/fonts/discord-semibold.woff2');
+}
+
+
+@font-face {
+    font-family: Discord;
+    font-weight: 700;
+    src: url('/public/assets/fonts/discord-bold.woff2');
+}
+
+
+@font-face {
+    font-family: Discord;
+    font-weight: 800;
+    src: url('/public/assets/fonts/discord-extrabold.woff2');
+}
